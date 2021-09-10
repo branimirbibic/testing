@@ -49,6 +49,8 @@ dependencies {
     implementation deps.room.rxjava2
     implementation deps.glide.runtime
     implementation deps.glide.okhttp_integration
+//    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0-alpha05'
+//    androidTestImplementation 'androidx.test:rules:1.4.0-alpha05'
 
     debugImplementation deps.leakcanary.debug
 
